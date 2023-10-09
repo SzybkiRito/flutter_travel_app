@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://i.imgur.com/VtGE0fa.png" alt="logo" style="height: 200px; width:200px;"/>
+    <img src="https://i.imgur.com/MVV1t9D.png" alt="logo" style="height: 200px; width:200px;"/>
 </h1>
 
 <h4 align="center">Mobile app to create ideal plan for your trip</h4>
